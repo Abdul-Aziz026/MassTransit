@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MassTransitWebApi2.props" />
+</Project>
